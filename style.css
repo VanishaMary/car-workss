@@ -1,0 +1,77 @@
+/* Seksyen 1 */
+.seksyen1{
+    background-image: url(https://wallpapers.com/images/high/metallic-rose-gold-qpmvdkqo6yhnwszf.jpg);
+    background-size: cover;
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-Car{
+    color: orange;
+}
+
+.tulisanPutih{
+    color: honeydew;
+}
+/* Seksyen 2 */
+.seksyen2{
+    background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700389438.jpg);
+    background-size: cover;
+    padding: 5% 15% 5%;
+    text-align: center;
+}
+
+.icon{
+    color: #000000;
+    margin-bottom: 1rem;
+}
+
+.feature-box{
+    padding: 3%;
+}
+
+.h2{
+    font-family: 'Secular One', sans-serif;
+}
+
+/* seksyen 3 */
+.seksyen3{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG2_ohjoNd2Z4MoKvSBQvv3eZEHAnigquUsv5cXzukG8RyvqcJdS4lhWZUaBV3EdRZ1eQ&usqp=CAU);
+    background-size: cover;
+    padding: 5%;
+    text-align: center;
+    color: #000000;
+}
+
+/* seksyen 4 */
+.seksyen4{
+    background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700389438.jpg);
+    background-size: cover;
+    padding: 5%;
+    text-align: center;
+    color: #000000;
+}
+
+/* seksyen 5 */
+.seksyen5{
+    background-color:rosybrown;
+    background-size: cover;
+    padding: 2%;
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+
+/* footer*/
+.footer{
+    background-image: url(https://img.freepik.com/free-vector/rose-gold-metallic-gradient-with-scratches-rose-gold-foil-surface-texture-effect_302982-1050.jpg);
+    background-size: cover;
+    padding: 2%;
+    text-align: center;
+}
+
+.media{
+    color: black;
+}
